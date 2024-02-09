@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Husbey</h1>
-<h3 align="center">Never give up. Success will come one day🙂
-</h3>
+<h3 align="center">Never give up. Success will come one day🙂</h3>
 
 
 <iframe src="https://gifer.com/embed/JXA0" width=400 height=320 align="right"frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">Husbey</a></p>
 
-<!-- <iframe src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width=400 height="400" align="right" alt="coding" frameBorder="0" allowFullScreen></iframe><p><a href="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">via GIFER</a></p> -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-husbey&label=Profile%20views&color=0e75b6&style=flat" alt="md-husbey" /> </p>
 
