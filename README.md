@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Husbey</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Never give up. Success will come one day🙂
+</h3>
 
 
+<iframe src="https://gifer.com/embed/JXA0" width=400 height=320 align="right"frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">Husbey</a></p>
 
-<img align="right" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://i.gifer.com/5eKX.gif)" alt="husbey" width="400" align="right" alt="coding" />
+<!-- <iframe src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width=400 height="400" align="right" alt="coding" frameBorder="0" allowFullScreen></iframe><p><a href="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">via GIFER</a></p> -->
 
-<p align="left"> <img src="![image](https://github.com/Md-Husbey/Md-Husbey/assets/159173735/50b189fb-ef49-4fb7-b33f-b56f24faf7f0)
-" alt="md-husbey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-husbey&label=Profile%20views&color=0e75b6&style=flat" alt="md-husbey" /> </p>
 
 - 💬 Ask me about **How can i help you ??**
 
