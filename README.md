@@ -2,8 +2,7 @@
 <h3 align="center">Never give up. Success will come one day🙂</h3>
 
 
-<iframe src="https://gifer.com/embed/JXA0" width=400 height=320 align="right"frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">Husbey</a></p>
-
+<img width=400 height=300 align="right" src="https://i.gifer.com/2GU.gif" alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-husbey&label=Profile%20views&color=0e75b6&style=flat" alt="md-husbey" /> </p>
