@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Husbey</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<iframe src="https://gifer.com/embed/JXA0" align="right" alt="coding" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">HUSBEY</a></p>
 
 
+<img align="right" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://i.gifer.com/5eKX.gif)" alt="husbey" width="400" align="right" alt="coding" />
 
 <p align="left"> <img src="![image](https://github.com/Md-Husbey/Md-Husbey/assets/159173735/50b189fb-ef49-4fb7-b33f-b56f24faf7f0)
 " alt="md-husbey" /> </p>
